@@ -1,7 +1,7 @@
 {
 	"name": "com.thesmallpixel.pattern",
 	"displayName": "Unity Games Pattern",
-	"version": "1.0.1",
+	"version": "1.1.1",
 	"unity": "2018.1",
 	"author": "TheSmallPixel",
 	"description": "Unity c# patterns",
