@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/dilmerv/UnityPackageDependency.git",
-		"revision": "679387cb1fa822190b530bdbb8ea0945f508b5f6"
+		"url": "https://github.com/TheSmallPixel/UnityCorePatterns.git",
+		"revision": "4648999f6cf866411cbc7d432bbc43fb5765364c"
 	}
 }
